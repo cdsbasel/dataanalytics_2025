@@ -1,1 +1,1 @@
-# dataanalytics_2025
+# resources
