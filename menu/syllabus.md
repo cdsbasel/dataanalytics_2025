@@ -48,43 +48,43 @@ td {
 </tr>
 <tr>
   <td style="text-align:center">1</td>
-  <td style="text-align:center">01.03.2023</td>
+  <td style="text-align:center">14.02.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
   <td>Introduction to data science and the PPDAC cycle; Getting Started: GitHub, R Markdown; form groups</td>
 </tr>
 <tr>
   <td style="text-align:center">2</td>
-  <td style="text-align:center">02.03.2023</td>
+  <td style="text-align:center">15.02.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
   <td>Student project pitches; Data wrangling & visualization</td>
 </tr>
 <tr>
   <td style="text-align:center">3</td>
-  <td style="text-align:center">22.03.2023</td>
+  <td style="text-align:center">21.02.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
   <td>Student project pitches; causal inference and statistical modeling</td>
 </tr>
 <tr>
   <td style="text-align:center">4</td>
-  <td style="text-align:center">12.04.2023</td>
+  <td style="text-align:center">28.02.2023</td>
   <td style="text-align:center">9am - 12pm</td>
   <td>Project meetings: analysis (Virtual)</td>
 </tr>
 <tr>
   <td style="text-align:center">5</td>
-  <td style="text-align:center">26.04.2023</td>
+  <td style="text-align:center">21.03.2023</td>
   <td style="text-align:center">9am - 12pm</td>
   <td>Project meetings: analysis (Virtual)</td>
 </tr>
   <tr>
-  <td style="text-align:center">5</td>
-  <td style="text-align:center">03.05.2023</td>
+  <td style="text-align:center">6</td>
+  <td style="text-align:center">04.04.2023</td>
   <td style="text-align:center">9am - 12pm</td>
   <td>Project meetings: presentation (Virtual)</td>
 </tr>
 <tr>
-  <td style="text-align:center">6</td>
-  <td style="text-align:center">24.05.2023</td>
+  <td style="text-align:center">7</td>
+  <td style="text-align:center">23.05.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
   <td>Student presentations; meet-the-expert event</td>
 </tr>
