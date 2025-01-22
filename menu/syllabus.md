@@ -7,7 +7,7 @@ title: Syllabus
 Dirk Wulff (<a href="mailto:dirk.wulff@unibas.ch">contact</a>), Rui Mata (<a href="mailto:rui.mata@unibas.ch">contact</a>)
 
 ## Venue
-CDS Meeting Room (Missionsstrasse 64A, 1st floor, RM 01.001) and/or over Zoom
+CDS Meeting Room (Missionsstrasse 64A, Room 00.010) and/or over Zoom (see sessions below)
 
 ## Background
 Data is everywhere and is being used to answer many questions concerning our wealth, health, and productivity. The aim of this seminar is to enable you to thoughtfully and actively use data science to help answer meaningful questions in a wide variety of domains. The course will consist of 1) introductory sessions on data analytics, 2) the application of these techniques in a group project over the course of the semester, 3) discussion with experts in a meet-the-expert event to learn about opportunities and challenges of data analytics in psychology and business.
@@ -56,31 +56,31 @@ td {
   <td style="text-align:center">2</td>
   <td style="text-align:center">15.02.2025</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
-  <td>Student project pitches; Data wrangling & visualization</td>
+  <td>Data wrangling & visualization; Student project pitches</td>
 </tr>
 <tr>
   <td style="text-align:center">3</td>
   <td style="text-align:center">21.02.2025</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
-  <td>Student project pitches; causal inference and statistical modeling</td>
+  <td>Causal inference and statistical modeling; Student project pitches</td>
 </tr>
 <tr>
   <td style="text-align:center">4</td>
   <td style="text-align:center">28.02.2025</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td>Project meetings: analysis (Virtual)</td>
+  <td>Project meetings: analysis (Zoom)</td>
 </tr>
 <tr>
   <td style="text-align:center">5</td>
   <td style="text-align:center">21.03.2025</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td>Project meetings: analysis (Virtual)</td>
+  <td>Project meetings: analysis (Zoom)</td>
 </tr>
   <tr>
   <td style="text-align:center">6</td>
   <td style="text-align:center">04.04.2025</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td>Project meetings: presentation (Virtual)</td>
+  <td>Project meetings: presentation (Zoom)</td>
 </tr>
 <tr>
   <td style="text-align:center">7</td>
