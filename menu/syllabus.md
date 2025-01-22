@@ -66,19 +66,19 @@ td {
 </tr>
 <tr>
   <td style="text-align:center">4</td>
-  <td style="text-align:center">14.03.2025</td>
+  <td style="text-align:center">21.03.2025</td>
   <td style="text-align:center">9am - 12pm</td>
   <td>Project meetings: analysis (Zoom)</td>
 </tr>
 <tr>
   <td style="text-align:center">5</td>
-  <td style="text-align:center">21.03.2025</td>
+  <td style="text-align:center">04.04.2025</td>
   <td style="text-align:center">9am - 12pm</td>
   <td>Project meetings: analysis (Zoom)</td>
 </tr>
   <tr>
   <td style="text-align:center">6</td>
-  <td style="text-align:center">04.04.2025</td>
+  <td style="text-align:center">11.04.2025</td>
   <td style="text-align:center">9am - 12pm</td>
   <td>Project meetings: presentation (Zoom)</td>
 </tr>
