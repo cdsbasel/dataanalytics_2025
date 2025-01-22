@@ -60,13 +60,13 @@ td {
 </tr>
 <tr>
   <td style="text-align:center">3</td>
-  <td style="text-align:center">21.02.2025</td>
+  <td style="text-align:center">28.02.2025</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
   <td>Causal inference and statistical modeling; Student project pitches</td>
 </tr>
 <tr>
   <td style="text-align:center">4</td>
-  <td style="text-align:center">28.02.2025</td>
+  <td style="text-align:center">14.03.2025</td>
   <td style="text-align:center">9am - 12pm</td>
   <td>Project meetings: analysis (Zoom)</td>
 </tr>
