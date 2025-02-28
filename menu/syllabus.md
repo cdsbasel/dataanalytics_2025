@@ -62,7 +62,7 @@ td {
   <td style="text-align:center">3</td>
   <td style="text-align:center">28.02.2025</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
-  <td>Causal inference and statistical modeling; Student project pitches</td>
+  <td><a href="https://cdsbasel.github.io/dataanalytics_2025/assets/pdf/DataAnalytics_Session3.pdf">Causal inference</a>, <a href="https://cdsbasel.github.io/dataanalytics_2025/assets/code/intro_lme4.html">Mixed-Effects Models</a>; ; Student project pitches</td>
 </tr>
 <tr>
   <td style="text-align:center">4</td>
@@ -92,4 +92,4 @@ td {
 
 ## Getting Started
 
-Please check out the <a href="https://cdsbasel.github.io/dataanalytics_2024/menu/installation.html">Installation</a> page to get started.
+Please check out the <a href="https://cdsbasel.github.io/dataanalytics_2025/menu/installation.html">Installation</a> page to get started.
